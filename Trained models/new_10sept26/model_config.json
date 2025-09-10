@@ -1,0 +1,14 @@
+{
+  "embedding_dim": 3138,
+  "hidden_dim": 512,
+  "dropout_rate": 0.3,
+  "event_classes": [
+    "Goal",
+    "Penalty",
+    "Direct_free-kick",
+    "Red_card",
+    "Substitution",
+    "no_event"
+  ],
+  "embeddings_base_path": "F:\\AIM Lab\\Experiment\\sliding-window\\Fused_final2_concat"
+}
